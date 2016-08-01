@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SoftKeyPadDetect/softkeypaddetect.iml" filepath="$PROJECT_DIR$/SoftKeyPadDetect/softkeypaddetect.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SoftKeyPadDetectDemo.iml" filepath="$PROJECT_DIR$/SoftKeyPadDetectDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-SoftKeyPad-Change-Listener.iml" filepath="$PROJECT_DIR$/Android-SoftKeyPad-Change-Listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftKeyPadDetect/SoftKeyPadDetect.iml" filepath="$PROJECT_DIR$/SoftKeyPadDetect/SoftKeyPadDetect.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
