@@ -1,7 +1,8 @@
 # Android-SoftKeyPad-Change-Listener
 Android's SoftKeyPad Change Listener 
 
-example)
+Use Sample
+
 AndroidManifest.xml
  <activity ...
      android:windowSoftInputMode="adjustResize"
