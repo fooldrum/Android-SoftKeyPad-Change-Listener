@@ -1,4 +1,16 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
+
+publish {
+    userOrg = 'daehee'
+    groupId = 'com.zzang.android'
+    artifactId = 'softkeypad-detector'
+    publishVersion = '1.0.0'
+    desc = 'Android SoftKeyPad Detector.'
+    website = 'https://github.com/fooldrum/Android-SoftKeyPad-Change-Listener'
+    issueTracker = "${website}/issues"
+    repository = "${website}.git"
+}
 
 android {
     compileSdkVersion 23
