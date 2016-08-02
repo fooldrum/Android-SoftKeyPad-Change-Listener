@@ -22,9 +22,11 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile project(path: ':SoftKeyPadDetect')
+    //compile project(path: ':SoftKeyPadDetect')
 
     testCompile 'junit:junit:4.12'
 
     compile 'com.android.support:appcompat-v7:23.4.0'
+
+    compile 'com.zzang.android:softkeypad-detector:1.0.0@aar'
 }
