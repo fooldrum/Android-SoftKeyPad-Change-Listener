@@ -52,7 +52,7 @@ Configure your project-level build.gradle include repositories jcenter:
       ...
     }
     
-Then, your module-level build.gradle add the Butter Knife dependencies:
+Then, your module-level build.gradle add the SoftKeyPad-Detector dependencies:
 
     dependencies {
       ...
