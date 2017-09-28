@@ -56,7 +56,7 @@ Then, your module-level build.gradle add the SoftKeyPad-Detector dependencies:
 
     dependencies {
       ...
-      compile 'com.zzang.android:softkeypad-detector:1.0.0'
+      compile 'com.zzang.android:softkeypad-detector:1.0.2'
       ...
     }
     
